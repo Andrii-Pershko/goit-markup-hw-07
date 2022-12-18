@@ -445,7 +445,7 @@ h3 {
 /* ============ FOOTER FORM ============ */
 /* =========================================  PHONE START  ========================================= */
 
-@media screen and (max-width: 766px) {
+@media screen and (max-width: 767px) {
   .container {
     width: 100%;
     max-width: 428px;
